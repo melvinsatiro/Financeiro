@@ -45,9 +45,9 @@ Ao iniciar, o programa exibirá o menu de operações:
 Dados iniciais do cliente: 
 
 
-Nome: Melvin Satiro
+Nome: ***** ******
 Tipo de conta: Corrente
-Saldo inicial:R$ 3400,00
+Saldo inicial:R$ 1400,00
 --------------------------
 Operações
 
@@ -69,7 +69,7 @@ Digite o valor que deseja retirar
 
 Saque realizado com sucesso!
 
-O saldo atual é =2900
+O saldo atual é =900
 🤝 Contribuições
 Contribuições, sugestões e melhorias são sempre bem-vindas. Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
